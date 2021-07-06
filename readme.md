@@ -16,4 +16,4 @@
 ![2021-07-06 (5)](https://user-images.githubusercontent.com/81462436/124573794-12540180-de74-11eb-9fad-fd2fdd5a08d1.png)
 
 ## 4. Tampilan Ketika sudah di delete
-![2021-07-06 (9)](https://user-images.githubusercontent.com/81462436/124573814-141dc500-de74-11eb-91a2-dd96ae5f4a9b.png)
+![2021-07-06 (10)](https://user-images.githubusercontent.com/81462436/124573817-14b65b80-de74-11eb-9272-89b71b3ce2da.png)
